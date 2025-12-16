@@ -10,9 +10,13 @@
   />
 </p>
 
-<!-- BONECO DEV 3D -->
+<!-- DISCO VOADOR 3D RUMO À LUA -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656979-cc8b25b3-3f06-4c53-9f63-4b9e77a4c8e0.png" width="420"/>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/215283294-7d3c3f58-6c4a-4a7e-9b39-8f5e9c93bfe3.gif" 
+    width="420"
+    alt="Disco voador futurista em direção à lua"
+  />
 </p>
 
 <h2 align="center">
@@ -35,10 +39,6 @@ Experiência do Usuário • Interfaces Futuristas • Código Limpo • Integra
 ## Resumo Profissional
 
 Desenvolvedor **Frontend Full Stack** com formação em **Design Gráfico** e forte atuação em **UX/UI**, especializado na criação de **interfaces modernas**, **experiências digitais imersivas** e **soluções tecnológicas inovadoras**.
-
-Atuo de forma completa no desenvolvimento de produtos digitais, unindo **pensamento visual**, **arquitetura frontend**, **integração backend** e **boas práticas de código**, sempre com foco em **usabilidade, performance e consistência visual**.
-
----
 
 ## Diferenciais Profissionais
 
@@ -72,12 +72,6 @@ Perfil criativo com mentalidade técnica
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilCarvalho0&repo=clonetiktokEBAC&theme=dark" />
 </p>
-
----
-
-## Objetivo Profissional
-
-Atuar como **Desenvolvedor Frontend Full Stack** com foco em **UX/UI e Design de Interfaces**, contribuindo para a construção de **produtos digitais modernos**, **performáticos** e **orientados à experiência do usuário**.
 
 ---
 
